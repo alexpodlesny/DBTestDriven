@@ -4,7 +4,7 @@ We are working to make all code public in the near future. All framework develop
 
 Please upgrade to the latest available framework version, please and browse through Releases folder to download latest file:
 
- - SQLServer-DbTestDriven (version 4.5.20.335)
+ - SQLServer-DbTestDriven (version 4.6.3.147)
 
  - Netezza-DbTestDriven (version 3.5.1.12)
 
